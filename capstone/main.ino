@@ -32,8 +32,8 @@
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "EnochOf"            // Replace it with your username  //check
-#define AIO_KEY         "aio_GIKS55qveBhkIml4iFUPJuNtX8tm"   // Replace with your Project Auth Key  //check
+#define AIO_USERNAME    ""            // Replace it with your username  //check
+#define AIO_KEY         ""   // Replace with your Project Auth Key  //check
 
 #define USE_SD_CARD //sd 카드를 사용함
 
